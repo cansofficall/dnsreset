@@ -1,3 +1,3 @@
 # dnsreset
-dns reset tool 
+dns reset tool             
 password webcnsadmin
