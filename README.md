@@ -1,0 +1,2 @@
+# dnsreset
+dns reset tool 
